@@ -1,0 +1,52 @@
+/* Inserta tu código aqui */
+
+
+.mt-2{
+	margin-top: -2%;
+}
+
+.pd-10{
+	padding: 10%;
+}
+
+.pd-3{
+	padding: 3%;
+}
+.pd-5{
+	padding: 5%;
+}
+.mt-3{
+	margin-top: 3%;
+}
+.mb-3{
+	margin-bottom: 3%;
+}
+i{
+	font-size: 250%;
+}
+
+.centerbuton{
+	display: block;
+	margin: 0 auto;
+	color: blue;
+	background-color: #18bc9c;
+	border: 2px solid white;
+	margin-bottom: 4%;
+}
+.butonenviar{
+	background-color: #18bc9c;
+}
+.text-white{
+	color: white;
+}
+.redes{
+    border-radius: 60%;
+    border: 2px solid #fff;
+    padding: 4%;
+    font-size: 180%;
+}
+.bordenone{
+	border-right: none;
+	border-left: none;
+	padding: 5%;
+}
